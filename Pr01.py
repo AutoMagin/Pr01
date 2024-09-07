@@ -6,7 +6,7 @@ class ArrayExample:
 
         for i in range(len(letters)):
             name += letters[i]
-            print(f"{name}! Count to {i + 1}")  # Выводим строку и текущий счёт
+            print(f"{name}! Count to {i + 1}")
 
         self.send_message(name, len(letters))
 
@@ -14,6 +14,5 @@ class ArrayExample:
         print(f"{name}! Count to {msg}")
 
 
-if __name__ == "__main__":
-    example = ArrayExample()
-    example.main()
+example = ArrayExample()
+example.main()
