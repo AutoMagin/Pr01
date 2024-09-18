@@ -16,3 +16,5 @@ class ArrayExample:
 
 example = ArrayExample()
 example.main()
+
+print("Hello")
