@@ -1,0 +1,1 @@
+Оригинал приложения: https://www.softcover.io/read/db8803f7/ruby_on_rails_tutorial_3rd_edition_russian/frontmatter
